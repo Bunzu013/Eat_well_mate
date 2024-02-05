@@ -1,0 +1,26 @@
+.recipe-display {
+    margin: 2rem;
+    background-image: url("../../assets/background2.jpg");
+    background-repeat: inherit;
+    border: 4px solid  #446d15;
+    border-radius: 2rem;
+    padding: 2rem;
+  }
+  .recipe-display h4 {
+    color: #446d15;
+    font-size: 16px;
+    background-color: #afcf8a;
+    max-height: 50px;
+  }
+  
+  .recipe-display section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 250px);
+    grid-auto-rows: max-content;
+    gap: 1rem;
+    border-radius: 1rem;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+  }
+  

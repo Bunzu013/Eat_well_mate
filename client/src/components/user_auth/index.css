@@ -1,0 +1,35 @@
+.button {
+  background-color: #446d15; /* Green */
+  border: none;
+  color: yellowgreen;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  border-radius: 12px;
+}
+
+.button:hover {
+  background-color:#5b921d ;
+  color: #a0ff33;
+  
+}
+
+.user-auth {
+    font-size: 2rem;
+    color: black;
+    text-align: center;
+  }
+  
+  .user-auth .email {
+    font-size: smaller;
+  }
+  
+  .user-auth .auth-btns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    
+  }

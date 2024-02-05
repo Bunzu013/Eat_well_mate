@@ -1,0 +1,51 @@
+.search-container {
+    background-color: #afcf8a;
+
+    border-top: 2px solid #446d15;
+    gap: 4rem;
+    padding: 1rem;
+  
+  }
+  
+  #search-recipes-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  .search {
+    display: flex;
+  }
+  
+  .search button {
+    margin: 0;
+  }
+  
+  .search input {
+    margin: 0;
+  }
+  
+  .search button:hover {
+    color: var(--white);
+  }
+
+  .button {
+    background-color: #446d15; /* Green */
+    border: none;
+    color: yellowgreen;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    border-radius: 12px;
+  }
+
+  .button:hover {
+    background-color:#5d951c ;
+    color: #a0ff33;
+    
+  }

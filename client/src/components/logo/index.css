@@ -1,0 +1,21 @@
+.logo {
+    height: 12rem;
+    width: 12rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: #dbf0bb;
+    color: #446d15;
+    font-family: "Dancing Script", cursive;
+    font-size: 2.5rem;
+    border: 0.5rem solid #446d15;
+    line-height: 1.2;
+  }
+  
+  .logo:hover {
+    background-color:#446d15 ;
+    color: #afcf8a;
+    border: 0.5rem solid #afcf8a;
+  }

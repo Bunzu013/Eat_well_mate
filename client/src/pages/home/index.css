@@ -1,0 +1,91 @@
+.home-page {
+    grid-area: main;
+    background-color: #dbf0bb;
+  }
+
+img{
+  border-radius: 50px; 
+}
+  
+  .welcome,
+  .features {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+  }
+  
+  .welcome {
+    color: white;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+    background-color: #dbf0bb;
+  }
+
+  .welcome_small{
+    background-color: #446d15;
+    width: 510px;
+    
+    
+  }
+  
+  .features {
+    color: black;
+    background-image: url("../../assets/background.png");
+    background-repeat: no-repeat;
+     background-size: cover;
+    margin-top: 2rem;
+  }
+  
+  .welcome img {
+    height: 10em;
+    margin-bottom: 2rem;
+  }
+  
+  .welcome button {
+    color: #dbf0bb;
+    border: 1px solid #dbf0bb;
+    margin-bottom: 1rem;
+  }
+  
+  .welcome button:hover {
+    color: #446d15;
+    background-color: #dbf0bb;
+    border: 1px solid #446d15;
+  }
+
+  h2{
+    border-radius: 10px;
+    background-color: #dbf0bb;
+    width: 510px;
+  }
+  
+  .possibilities {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2em;
+    
+  }
+  
+  .possibility-item {
+    max-width: 250px;
+    border-radius: 10px;
+    background-color: #dbf0bb;
+    
+  }
+.possibility-image{
+  max-width: 150px;
+  border: 3px solid #446d15;
+}
+  
+  .box-outline {
+    border: 3px solid ;
+    color: yellowgreen;
+    background-color:#446d15;
+    border-radius: 10px;
+  }
+
+  .transparent-image {
+    background-color: transparent;
+  }

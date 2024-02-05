@@ -1,0 +1,17 @@
+.button_search {
+    width: 200px;
+    height: 50px;
+    background-color: #afcf8a;
+    color:  #446d15;
+    font-weight: bold;
+    
+  }
+
+  .button_search:hover{
+    background-color: #446d15;
+    color: #afcf8a;
+  }
+
+  .search{
+    display: contents;
+  }

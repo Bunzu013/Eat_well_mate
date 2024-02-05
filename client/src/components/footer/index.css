@@ -1,0 +1,11 @@
+footer {
+  grid-area: footer;
+  font-size: 18px;
+  color: #446d15;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding-top: 2vmin;
+  border-top: 2px solid #446d15;
+}
