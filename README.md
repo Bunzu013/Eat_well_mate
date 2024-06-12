@@ -14,7 +14,7 @@ This aplication is my project for passing colleage class: Programming frameworks
  <p align="justify">  
 Web aplication that assist users in managing their meals and recipes efficiently.
 The app allows users to search for, view, and save recipes using a user-friendly interface built with React. User can search recipe by name or choosen filters. 
-   Additionaly user can add they own recipe, which shows up in they profile page and if needed delete this recipe.
+   Additionaly user can add their own recipe, which shows up in they profile page and if needed delete this recipe.
 It aims to enhance meal planning and organization by providing a comprehensive platform for recipe management, inspired by the CookBook project (https://github.com/DrAcula27/CookBook/tree/main). 
 The application leverages JavaScript, Express, and MongoDB to deliver a robust and scalable solution for users.
 </p>
