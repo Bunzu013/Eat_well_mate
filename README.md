@@ -89,7 +89,7 @@ Client side:3000
 Server side: 8000
 Database: 27017
 ```
-#### 1. Create database conection in MongoDB
+#### 1. Create database conection in MongoDB: mongodb://localhost:27017/
 #### 2. Create database named: CookBookData
 #### 3. Server side
 
